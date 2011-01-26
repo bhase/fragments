@@ -1,0 +1,9 @@
+vimfiles - syntax and filetype plugins for DXL
+ParseAndRunDxlFile.vbs - Visual Basic to call Doors with DXL file, useful
+	to set makeprg in vim (done in ftplugin/dxl.vim)
+
+The contents are based on the idea behind this presentation:
+http://download-na.telelogic.com/download/ugcagenda/Roger_Gallion_DOORS_and_External_IDE.pdf
+
+Since I used this under Windows with vim under Win32, these files are
+(should be) with CRLF termination
