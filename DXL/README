@@ -1,3 +1,6 @@
+dxl.ini - syntax highlighter DXL for PSPad
+dxl.syn - syntax highlighter DXL for TextPad
+
 vimfiles - syntax and filetype plugins for DXL
 ParseAndRunDxlFile.vbs - Visual Basic to call Doors with DXL file, useful
 	to set makeprg in vim (done in ftplugin/dxl.vim)

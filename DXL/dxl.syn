@@ -1,0 +1,78 @@
+; TextPad keyword syntax file for DXL
+
+C=1
+
+[Syntax]
+
+Namespace1=6
+IgnoreCase = No
+InitKeyWordChars = A-Za-z_
+KeyWordChars = A-Za-z0-9_
+BracketChars = {[()]}
+OperatorChars = +-*/<>!~%^&|=
+PreprocStart = #
+SyntaxStart =
+SyntaxEnd =
+CommentStart = /*
+CommentEnd = */
+CommentStartAlt =
+CommentEndAlt =
+SingleComment = //
+SingleCommentCol =
+SingleCommentAlt =
+SingleCommentColAlt =
+StringStart = "
+StringEnd = "
+StringAlt =
+StringEsc = \
+CharStart = '
+CharEnd = '
+CharEsc = \
+
+[KeyWords 1]
+and
+break
+by
+continue
+default
+do
+else
+for
+if
+in
+module
+object
+or
+return
+sizeof
+static
+then
+while
+
+[KeyWords 2]
+case
+const
+default
+enum
+struct
+switch
+union
+
+[KeyWords 3]
+pragma
+
+[KeyWords 4]
+bool
+char
+int
+real
+string
+void
+Module
+Object
+Template
+DB
+DBE
+
+[Preprocessor keywords]
+include
